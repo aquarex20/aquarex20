@@ -34,8 +34,8 @@ I’m Haroun — an engineering student passionate about AI, software developmen
 ---
 
 ### 📫 How to reach me
-- LinkedIn: [(https://www.linkedin.com/in/haroun-mili-74aba4154/)]
-- Email: [harounmili@yahoo.ca]
+- LinkedIn: https://www.linkedin.com/in/haroun-mili-74aba4154/
+- Email: harounmili@yahoo.ca
 
 ---
 
