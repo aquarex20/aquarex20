@@ -1,35 +1,58 @@
 ## Hi there 👋
 
-I’m Haroun — an engineering student passionate about AI, software development, and building impactful products.
+I'm Haroun — an engineering student passionate about building AI systems and scalable applications that solve real problems.
 
 ---
 
-### 🚀 What I’m working on
-- 🧠 AI systems (LLMs, voice agents, multi-agent pipelines)
-- 📱 Mobile apps (React Native / Expo)
-- 🌐 Scalable web tools & data scraping systems
-- 📊 Applied machine learning & optimization
+### 🚀 Featured Projects
+
+#### AI & Machine Learning
+- **🎙️ CocktailPartyAI** — Real-time voice agent with speaker diarization, local LLM (Ollama), WhisperX STT, and Kokoro TTS. Supports multi-language conversations with refinement loops for improved speaker recognition over time.
+- **🚗 Autonomous Vehicle Simulation** — Multi-agent simulation combining numerical methods, mean field games, and real-world routing (OSRM integration) for optimizing autonomous vehicle dispatch and demand fulfillment.
+- **📊 AI-Powered Stock Screener** — Intelligent stock analysis tool with smart caching, volatility detection, and real-time market data processing using pandas and Yahoo Finance API.
+
+#### Full-Stack Development
+- **💪 GO_JIM** — Mobile fitness application built with React Native/Expo for iOS and Android, featuring seamless deployment to App Store via EAS.
+- **🎵 Jams Live** — Next.js web app for discovering local music jam sessions with interactive maps (Leaflet), genre/instrument filtering, and Google Sheets integration.
+- **⚡ Hydro-Quebec Project** — Full-stack .NET application with React frontend for processing and visualizing geospatial NetCDF data, built with C# backend and GDAL integration.
+
+#### Tools & Utilities
+- **🔐 Encrypted Communication App** — Secure messaging system with OTP encryption and custom cryptographic protocols.
+- **🔒 GPG Notepad** — Desktop application for encrypted note-taking with GPG integration.
+- **📚 AI Education Bot** — Google Sheets automation bot with MongoDB integration for educational data management.
+
+---
+
+### 🛠️ Tech Stack
+
+**AI/ML**: LLMs (Ollama), WhisperX, TTS (Kokoro), Speaker Diarization, Numerical Optimization, Mean Field Games  
+**Backend**: Python (Flask, FastAPI), Node.js, C#/.NET, OSRM  
+**Frontend**: React Native/Expo, Next.js, TypeScript, Tailwind CSS  
+**Data**: Pandas, NumPy, MongoDB, Google Sheets API, NetCDF/GDAL  
+**DevOps**: Docker, EAS, Git
 
 ---
 
 ### 🌱 Currently learning
-- Advanced AI architectures & LLM systems  
-- Numerical methods & scientific computing  
-- Cybersecurity & system design  
+- Advanced AI architectures & multi-agent systems  
+- Numerical methods & optimization algorithms  
+- Real-time voice processing & diarization  
+- System design & scalable architectures  
 
 ---
 
 ### 👯 Open to collaborate on
-- AI / ML projects  
-- Startup ideas (especially SaaS)  
-- Open-source tools with real-world impact  
+- AI/ML projects (especially voice agents & LLM pipelines)  
+- Startup ideas with real-world impact  
+- Open-source tools in AI, optimization, or data processing  
 
 ---
 
 ### 💬 Ask me about
-- AI agents & LLM pipelines  
-- App development (mobile + web)  
-- Optimization, math, and engineering problems  
+- Building local AI agents (STT → LLM → TTS pipelines)  
+- Multi-agent simulations & numerical optimization  
+- Mobile & web app development (React Native, Next.js)  
+- Data processing & geospatial applications  
 
 ---
 
@@ -40,20 +63,4 @@ I’m Haroun — an engineering student passionate about AI, software developmen
 ---
 
 ### ⚡ Fun fact
-I love mixing engineering with creativity — whether it's building AI systems, designing products, or just playing piano 🎹
-
----
-<!--
-**aquarex20/aquarex20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love mixing engineering with creativity — whether it's building AI voice agents that understand cocktail party conversations, optimizing autonomous vehicle fleets, or just playing piano 🎹
