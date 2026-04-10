@@ -10,6 +10,9 @@ I'm Haroun — an engineering student passionate about building AI systems and s
 - **🎙️ CocktailPartyAI** — Real-time voice agent with speaker diarization, local LLM (Ollama), WhisperX STT, and Kokoro TTS. Supports multi-language conversations with refinement loops for improved speaker recognition over time.
 - **🚗 Autonomous Vehicle Simulation** — Multi-agent simulation combining numerical methods, mean field games, and real-world routing (OSRM integration) for optimizing autonomous vehicle dispatch and demand fulfillment.
 - **📊 AI-Powered Stock Screener** — Intelligent stock analysis tool with smart caching, volatility detection, and real-time market data processing using pandas and Yahoo Finance API.
+### Systems & Engineering
+
+- **🏦 COBOL Banking System** — Full-stack-style modular banking suite in COBOL 2014: indexed and sequential file I/O, CALL/linkage subprograms (accounts, transactions, loans, reports), deposits and transfers with overdraft rules, loan amortization and payoff logic, and portfolio-style reporting. Built with GnuCOBOL; demonstrates fundamentals through advanced patterns (EVALUATE, COMPUTE with ROUNDED/ON SIZE ERROR, tables, STRING/INSPECT, session logging).
 
 #### Full-Stack Development
 - **💪 GO_JIM** — Mobile fitness application built with React Native/Expo for iOS and Android, featuring seamless deployment to App Store via EAS.
