@@ -7,6 +7,8 @@ I'm Haroun — an engineering student passionate about building AI systems and s
 ### 🚀 Featured Projects
 
 #### AI & Machine Learning
+- **🎙️ AI Employee** — Literally doing everything an employee does, but better. Integrates itself to meetings, talks, is presentable. Acquires skills faster than anyone and is expert in every field.
+https://landing-page-ai-czvc.onrender.com/
 - **🎙️ CocktailPartyAI** — Real-time voice agent with speaker diarization, local LLM (Ollama), WhisperX STT, and Kokoro TTS. Supports multi-language conversations with refinement loops for improved speaker recognition over time.
 https://youtu.be/04wsQ5ikvCA?si=rSA2iemiM1fyojTh
 - **🚗 Autonomous Vehicle Simulation** — Multi-agent simulation combining numerical methods, mean field games, and real-world routing (OSRM integration) for optimizing autonomous vehicle dispatch and demand fulfillment.
