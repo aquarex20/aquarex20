@@ -8,16 +8,22 @@ I'm Haroun — an engineering student passionate about building AI systems and s
 
 #### AI & Machine Learning
 - **🎙️ CocktailPartyAI** — Real-time voice agent with speaker diarization, local LLM (Ollama), WhisperX STT, and Kokoro TTS. Supports multi-language conversations with refinement loops for improved speaker recognition over time.
+https://youtu.be/04wsQ5ikvCA?si=rSA2iemiM1fyojTh
 - **🚗 Autonomous Vehicle Simulation** — Multi-agent simulation combining numerical methods, mean field games, and real-world routing (OSRM integration) for optimizing autonomous vehicle dispatch and demand fulfillment.
+https://youtu.be/l9E5jcigNxA?si=tmhiWuVm_OQko7Lj
 - **📊 AI-Powered Stock Screener** — Intelligent stock analysis tool with smart caching, volatility detection, and real-time market data processing using pandas and Yahoo Finance API.
 ### Systems & Engineering
+
 
 - **🏦 COBOL Banking System** — Full-stack-style modular banking suite in COBOL 2014: indexed and sequential file I/O, CALL/linkage subprograms (accounts, transactions, loans, reports), deposits and transfers with overdraft rules, loan amortization and payoff logic, and portfolio-style reporting. Built with GnuCOBOL; demonstrates fundamentals through advanced patterns (EVALUATE, COMPUTE with ROUNDED/ON SIZE ERROR, tables, STRING/INSPECT, session logging).
 
 #### Full-Stack Development
 - **💪 GO_JIM** — Mobile fitness application built with React Native/Expo for iOS and Android, featuring seamless deployment to App Store via EAS.
+  https://gojim-landing-page.onrender.com/index.html
 - **🎵 Jams Live** — Next.js web app for discovering local music jam sessions with interactive maps (Leaflet), genre/instrument filtering, and Google Sheets integration.
+https://jams.live/
 - **⚡ Hydro-Quebec Project** — Full-stack .NET application with React frontend for processing and visualizing geospatial NetCDF data, built with C# backend and GDAL integration.
+https://www.youtube.com/watch?v=Q-cE7o92IfU&t=18s
 
 #### Tools & Utilities
 - **🔐 Encrypted Communication App** — Secure messaging system with OTP encryption and custom cryptographic protocols.
