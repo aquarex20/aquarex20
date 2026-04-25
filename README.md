@@ -14,6 +14,7 @@ https://youtu.be/04wsQ5ikvCA?si=rSA2iemiM1fyojTh
 - **🚗 Autonomous Vehicle Simulation** — Multi-agent simulation combining numerical methods, mean field games, and real-world routing (OSRM integration) for optimizing autonomous vehicle dispatch and demand fulfillment.
 https://youtu.be/l9E5jcigNxA?si=tmhiWuVm_OQko7Lj
 - **📊 AI-Powered Stock Screener** — Intelligent stock analysis tool with smart caching, volatility detection, and real-time market data processing using pandas and Yahoo Finance API.
+https://bot-investment-87dy.onrender.com/
 ### Systems & Engineering
 
 
